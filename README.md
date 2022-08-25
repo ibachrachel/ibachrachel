@@ -24,7 +24,13 @@ Bachelor of Science, Major in Biomedical Sciences, Minor in Chemistry, May 2021
 
 ### EXPERIENCE
 
-Starbucks Coffee Company | CA 08/2017 – Present
+Amador County Unified School District | CA 10/2021 - Present
+• Database management of SEIS and Aeries: managing over 6000 unique profiles
+• Completing statewide reporting on Medi-Cal reimbursements and auditing financial files from 10+ years ago
+• Providing IT support to staff and training on software used
+
+
+Starbucks Coffee Company | CA 08/2017 – 10/2021
 • Training new partners in one-on-one, tailored instruction for multiple weeks
 • Preparing sales and inventory information to be recorded within daily records logs
 • Taking and screening calls of applicants to schedule interview with management
