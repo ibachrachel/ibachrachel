@@ -4,20 +4,14 @@
 
 
 
-- 🔭 I’m currently working on: my data bootcamp capstone project!
-- 🌱 I’m currently learning: Machine Learning and Deep Neural Nets
-- 👯 I’m looking to collaborate on: database creation
-- 🤔 I’m looking for help with: finding things to do in Sacramento
-- 💬 Ask me about: My garden or my gym routine
-- 📫 How to reach me: Linkedin message
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love sudokus and puzzles.
-
-
-
-RACHEL IBACH
-
-LinkedIn https://www.linkedin.com/in/rachel-ibach-5936741a8 
+-  I’m currently working on: my data bootcamp capstone project!
+-  I’m currently learning: Machine Learning and Deep Neural Nets
+-  I’m looking to collaborate on: database creation
+-  I’m looking for help with: finding things to do in Sacramento
+-  Ask me about: My garden or my gym routine
+-  How to reach me: Linkedin message
+-  Pronouns: She/Her
+-  Fun fact: I love sudokus and puzzles.
 
 ### EDUCATION
 
